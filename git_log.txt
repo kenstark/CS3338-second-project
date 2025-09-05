@@ -1,0 +1,45 @@
+commit f800cca149dab64c05e1cd3e5c322b0ce52654df
+Merge: 7151235 ad419d2
+Author: Kent <kkstark855@gmail.com>
+Date:   Thu Sep 4 18:23:47 2025 -0700
+
+    Resolve merge conflict by keeping both new divs
+
+commit ad419d2c0cc5aedbd7fee4ea3e175ce2539daff2
+Author: Kent <kkstark855@gmail.com>
+Date:   Thu Sep 4 18:22:57 2025 -0700
+
+    index-fix: add favorite movie/game div to index.html
+
+commit 71512350fec2c2a21f9696842e2d0b007f44aca0
+Author: Kent <kkstark855@gmail.com>
+Date:   Thu Sep 4 18:20:47 2025 -0700
+
+    Main: add favorite food div
+
+commit 800674137e05e350c82803c51b5ae437bfccee51
+Author: Kent <kkstark855@gmail.com>
+Date:   Thu Sep 4 18:16:58 2025 -0700
+
+    Add README describing repo and lab
+
+commit 7b59e91a03229fc15f6b7a544c5b1eda6d3ee493
+Merge: 1d2bfc0 05faf0f
+Author: Kent Stark <100457175+kenstark@users.noreply.github.com>
+Date:   Thu Sep 4 18:08:20 2025 -0700
+
+    Merge pull request #1 from kenstark/info-fill
+    
+    Fill in blanks on index.html
+
+commit 05faf0fce03a10ad69eb41bc40dcea647ab190f9
+Author: Kent <kkstark855@gmail.com>
+Date:   Thu Sep 4 17:59:06 2025 -0700
+
+    Fill in blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
